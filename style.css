@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(221,119,55);
+    background: linear-gradient(90deg, rgba(221,119,55,1) 23%, rgba(239,239,239,1) 43%, rgba(255,255,255,1) 57%, rgba(0,255,46,1) 73%);
+}
+
+.container{
+    max-width: 500px;
+    margin: 250px auto;
+    background-color: blue;
+    padding: 20px;
+    border:  rgb(255, 255, 255) solid 6px;
+    border-radius: 30px;
+    box-shadow: rgb(11, 33, 227) 0px 2px 25px;
+
+
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
